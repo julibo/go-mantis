@@ -1,6 +1,4 @@
-module go-mantis
-
-go 1.12
+module github.com/julibo/go-mantis
 
 require (
 	github.com/sirupsen/logrus v1.4.2
